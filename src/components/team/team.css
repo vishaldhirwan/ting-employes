@@ -1,0 +1,66 @@
+.firstdiv{
+    display: inline-block;
+    text-align: center;
+}
+.firstdiv h1{
+    background-color: yellow;
+}
+
+.firstdiv h2{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+    color: yellow;
+    padding: 2px;
+}
+
+.seconddiv{
+    display: inline-block;
+    text-align: center;
+}
+
+.seconddiv h1{
+    background-color: yellow;
+}
+.seconddiv h2{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+    color: yellow;
+    padding: 2px;
+}
+
+.thirddiv{
+    display: inline-block;
+    text-align: center;
+}
+
+.thirddiv h1{
+    background-color: yellow;
+}
+
+.thirddiv h2{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+    color: yellow;
+    padding: 2px;
+}
+
+.forthdiv{
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+}
+
+.forthdiv h1{
+    background-color: yellow;
+}
+
+.forthdiv h2{
+    background-color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+    color: yellow;
+    padding: 2px;
+}
